@@ -63,7 +63,7 @@ const Navbar = () => {
                   <a className="dropdown-item disabled">Blog</a>
                 </li>
                 <li>
-                  <a className="dropdown-item disabled">Team Members</a>
+                  <a className="dropdown-item disabled">Team Member</a>
                 </li>
                 <li>
                   <a className="dropdown-item disabled">Contact Me</a>
