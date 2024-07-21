@@ -70,15 +70,6 @@ const Navbar = () => {
                 </li>
               </ul>
             </li>
-            <li className="nav-item">
-              <div class="toggle toggle--daynight">
-                <input
-                  type="checkbox"
-                  id="toggle-daynight"
-                  class="toggle-checkbox"
-                />
-              </div>
-            </li>
           </ul>
         </div>
       </div>
