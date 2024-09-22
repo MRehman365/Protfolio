@@ -230,3 +230,18 @@ h1{
       }
     
 } 
+.skiptranslate{
+
+display: block;
+}
+.VIpgJd-ZVi9od-ORHb-bN97Pc{
+  display: block !important;
+}
+#goog-gt-tt{
+  display: none !important;
+}
+.goog-te-gadget{
+  display: block !important;
+  z-index: 99999;
+}
+
